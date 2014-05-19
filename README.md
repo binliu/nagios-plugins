@@ -1,4 +1,4 @@
-![Appfirst](http://www.appfirst.com/img/appfirst-logo.png)
+![Appfirst](http://www.appfirst.com/static/images/appfirst-logo.svg)
 Nagios Plugins by [AppFirst](http://www.appfirst.com)
 =====================================================
 
